@@ -1,5 +1,3 @@
-
-
  var nome = 'Arthur'
  const altura = 1.75
  let idade = 19
@@ -51,4 +49,3 @@
 
  let boleanoparanumero = number(true) //1
  let boleanoparanumero1 = number(false) // 0
-
